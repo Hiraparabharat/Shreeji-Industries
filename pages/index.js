@@ -171,7 +171,7 @@ export default function Home() {
           <p className="text-3xl text-white font-semibold text-center pb-4">
             We Provide Superior Services
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 px-16 md:px-[10%] gap-4 md:gap-6 text-white">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 px-26 md:px-[10%] gap-4 md:gap-6 text-white">
             <div>
               <Image
                 src={Service1}
