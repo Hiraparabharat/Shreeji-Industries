@@ -177,48 +177,48 @@ export default function Home() {
                 src={Service1}
                 className=" hover:-translate-y-1 transition-transform	duration-300 ease-[cubic-bezier(0.95,0.05,0.795,0.035)]"
               />
-              <p className="font-medium py-2 px-[7%]">Aluminum Scrap</p>
-              <p className="px-[7%]">
+              <p className="font-medium py-2 ">Aluminum Scrap</p>
+              <p className="">
                 We offer Industrial Scraps of fine grade to the national and
                 international market
               </p>
-              <button className="text-red-700 px-[7%] my-4">Read More</button>
+              <button className="text-red-700  my-4">Read More</button>
             </div>
             <div>
               <Image
                 src={Service2}
                 className=" hover:-translate-y-1 transition-transform	duration-300 ease-[cubic-bezier(0.95,0.05,0.795,0.035)]"
               />
-              <p className="font-medium py-2 px-[7%]">Cast Iron Scrap</p>
-              <p className="px-[7%]">
+              <p className="font-medium py-2 ">Cast Iron Scrap</p>
+              <p className="">
                 Imported Cast Iron Scrap, suitable for use in Automobile,
                 Machinery etc
               </p>
-              <button className="text-red-700 px-[7%] my-4">Read More</button>
+              <button className="text-red-700  my-4">Read More</button>
             </div>
             <div>
               <Image
                 src={Service3}
                 className=" hover:-translate-y-1 transition-transform	duration-300 ease-[cubic-bezier(0.95,0.05,0.795,0.035)]"
               />
-              <p className="font-medium py-2 px-[7%]">Brass & Copper Scrap</p>
-              <p className="px-[7%]">
+              <p className="font-medium py-2 ">Brass & Copper Scrap</p>
+              <p className="">
                 Importing and Exporting Brass & Copper Scrap from the
                 well-renowned dealers
               </p>
-              <button className="text-red-700 px-[7%] my-4">Read More</button>
+              <button className="text-red-700  my-4">Read More</button>
             </div>
             <div>
               <Image
                 src={Service4}
                 className=" hover:-translate-y-1 transition-transform	duration-300 ease-[cubic-bezier(0.95,0.05,0.795,0.035)]"
               />
-              <p className="font-medium py-2 px-[7%]">Discarded Motor Scrap</p>
-              <p className="px-[7%]">
+              <p className="font-medium py-2 ">Discarded Motor Scrap</p>
+              <p className="">
                 Motor Scraps, is highly demand both in the local and
                 international markets
               </p>
-              <button className="text-red-700 px-[7%] my-4">Read More</button>
+              <button className="text-red-700  my-4">Read More</button>
             </div>
           </div>
         </div>
